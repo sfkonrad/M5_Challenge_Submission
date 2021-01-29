@@ -10,5 +10,4 @@ For this Project, we created two financial analysis tools for a local Credit Uni
 
 We then use the statistics generated from the Monte Carlo simulation(s) to answer critical questions about the portfolio in our Jupyter notebook.
 
-
-!Images/5-4-monte-carlo-line-plot.png
+http://localhost:8888/files/M5/M5_Challenge/M5_Challenge_Starter_Code/Images/5-4-monte-carlo-line-plot.png?_xsrf=2%7Ce23cf0ef%7C0ee06d4eb545e01eed3a216c760fe48e%7C1610817696&1611760554902
