@@ -10,4 +10,4 @@
 
 We then proceeded to use the statistics generated from the Monte Carlo simulation(s) to answer critical questions about the portfolio in our Jupyter notebook.
 
-![image](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/MC_spy80_weight_line_plot.png)
+![image](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/IMAGE_Cumulative_Portfolio_Return_Trajectories.jpg)
