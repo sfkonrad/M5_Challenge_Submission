@@ -9,3 +9,5 @@
 > This tool forecasts the performance of the member's retirement portfolio over 30 years. To do this, we developed a tool that makes Alpaca API calls via the Alpaca SDK to obtain both live and historical price data for use in our Monte Carlo simulations.
 
 We then proceeded to use the statistics generated from the Monte Carlo simulation(s) to answer critical questions about the portfolio in our Jupyter notebook.
+
+![image](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/MC_spy80_weight_line_plot.png)
