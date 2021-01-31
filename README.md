@@ -1,6 +1,6 @@
 # **M5_Challenge_Submission**
 ## **Financial Planning with APIs and Simulations**
-#### For this Project, we created two financial analysis tools for a local Credit Union by using a single Jupyter notebook:
+### For this Project, we created two financial analysis tools for a local Credit Union by using a single Jupyter notebook:
 
 ### **Part 1: Financial Planner for Emergencies** 
 > The members are now able to use this tool to visualize their current savings. Further, they can then determine if they have enough reserves for an emergency fund.
@@ -10,4 +10,4 @@
 
 We then proceeded to use the statistics generated from the Monte Carlo simulation(s) to answer critical questions about the portfolio in our Jupyter notebook.
 
-![image](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/MC_spy80_weight_line_plot.png)
+![image](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/IMAGE_Cumulative_Portfolio_Return_Trajectories.jpg)
