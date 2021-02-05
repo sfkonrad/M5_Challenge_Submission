@@ -18,7 +18,7 @@ We then proceeded to use the statistics generated from the Monte Carlo simulatio
 ###  **NOTE**
 At the time this repo was updated (2021.02.04.18:00PST) it appears that Alpaca API was experiencing some issues with calling data for dates before 2020. The script appears to be running correctly. However as a result, the incoming data being called for the 30-Year MC simulations is corrupted and will need to be re-read and committed to the repo again at a later time. 
 
-For Perspective, the `95% CI Upper` is currently represented as `75.5114`; it should be just over 1/5 of that, apprx. `17.5`.
+For Perspective, the `95% CI Upper` is currently represented as `75.5114`; it should be just over 1/5 of that  value, apprx. `17.5`.
 
 ![image](./README_images/IMAGE_30_year_bad_head.jpg)
 ![image](./README_images/IMAGE_30_year_bad_values.jpg)
