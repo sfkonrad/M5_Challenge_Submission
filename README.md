@@ -17,6 +17,6 @@ We then proceeded to use the statistics generated from the Monte Carlo simulatio
 ---
 ###  **NOTE**
 At the time this repo was updated (2021.2.4.18:00) it appears that Alpaca API was experiencing some issues with calling data for dates before 2020. As a result, the statistics from 10-Year MC simulations are bad and will need to be re-read into the repo at a later time.
-![image](./IMAGE_ten_year_timedelta.jpg)
-![image](./IMAGE_ten_year_bad_values.jpg)
 ![image](./IMAGE_ten_year_bad_head.jpg)
+![image](./IMAGE_ten_year_bad_values.jpg)
+![image](./IMAGE_ten_year_timedelta.jpg)
