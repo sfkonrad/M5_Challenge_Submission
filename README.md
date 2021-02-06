@@ -16,7 +16,7 @@ We then proceeded to use the statistics generated from the Monte Carlo simulatio
 
 ---
 ###  **NOTE**
-At the time this repo was updated (2021.02.04.18:00PST) it appears that my local dev environment was  experiencing some issues with calling data for ten_year_ago from the corresponding dataframe. The script appears to be running correctly. However as a result, the incoming data being called for the 30-Year MC simulations is corrupted and will need to be re-read and committed to the repo again at a later time prior to 2020.02.08. 
+At the time this repo was updated (2021.02.04.18:00PST) it appears that my local dev environment was  experiencing some issues with calling data for `ten_year_ago` from the corresponding dataframe. The script appears to be running correctly. However as a result, the incoming data being called for the 30-Year MC simulations is corrupted and will need to be re-read and committed to the repo again at a later time prior to 2020.02.08. 
 
 **Until then, please accept "M5_Challenge_v1.0_KonradK_financial_planning_tools.ipynb" as the submission on record for the Module_5_Challenge.**
 
