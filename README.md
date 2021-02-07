@@ -25,6 +25,6 @@ v2.0 incorporates experimental feature like
 - A questionaire form asking the user to confirm data imputed to the script
 ![image](./README_images/IMAGE_questionaire.jpg)
 
+![image](./README_images/IMAGE_30_year_timedelta.jpg)
 ![image](./README_images/IMAGE_30_year_bad_head.jpg)
 ![image](./README_images/IMAGE_30_year_bad_values.jpg)
-![image](./README_images/IMAGE_30_year_timedelta.jpg)
