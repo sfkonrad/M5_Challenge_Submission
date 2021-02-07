@@ -20,11 +20,13 @@ At the time this repo was updated (2021.02.04.18:00PST) it appears that my local
 
 **Until then, please accept ["M5_Challenge_v1.0_KonradK_financial_planning_tools.ipynb"](https://github.com/sfkonrad/M5_Challenge_Submission/blob/main/M5_Challenge_v1.0_KonradK_financial_planning_tools.ipynb) as the submission on record for the Module_5_Challenge.**
 
+![image](./README_images/IMAGE_30_year_timedelta.jpg)
+![image](./README_images/IMAGE_30_year_bad_head.jpg)
+![image](./README_images/IMAGE_30_year_bad_values.jpg)
+
+---
+
 v2.0 incorporates additional features:
 - Automated calls for current dates
 - A questionaire form asking the user to confirm data imputed to the script
 ![image](./README_images/IMAGE_questionaire.jpg)
-
-![image](./README_images/IMAGE_30_year_timedelta.jpg)
-![image](./README_images/IMAGE_30_year_bad_head.jpg)
-![image](./README_images/IMAGE_30_year_bad_values.jpg)
